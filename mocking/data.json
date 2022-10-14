@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nama": "Netflix",
+        "tipe": "Sharing",
+        "qty": 20,
+        "carts_qty": 0,
+        "price": 30000,
+        "carts_price": 0,
+        "img_url": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI"
+    },
+    {
+        "id": 2,
+        "nama": "Prime Video",
+        "tipe": "Private",
+        "qty": 15,
+        "carts_qty": 0,
+        "price": 30000,
+        "carts_price": 0,
+        "img_url": "https://id-test-11.slatic.net/p/1f0feac18fbdaf45b63aaabae4ff3362.png"
+    },
+    {
+        "id": 3,
+        "nama": "Viu Premium",
+        "tipe": "Sharing",
+        "qty": 999,
+        "carts_qty": 0,
+        "price": 15000,
+        "carts_price": 0,
+        "img_url": "https://dl.memuplay.com/new_market/img/com.vuclip.viu.icon.2022-06-07-18-06-39.png"
+    }
+]
